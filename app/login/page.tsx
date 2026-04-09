@@ -41,7 +41,7 @@ export default function LoginPage() {
               <Image src="/images/school-logo.png" alt="Logo" fill className="object-contain" />
             </div>
             <div>
-              <div className="font-display font-bold text-white text-xl">Flame Academy</div>
+              <div className="font-display font-bold text-white text-xl">St.Luke Schools</div>
               <div className="text-xs text-charcoal-400 tracking-[0.15em] uppercase mt-0.5">Staff Portal</div>
             </div>
           </Link>
